@@ -8,7 +8,7 @@ def my_each (array)
     i += 1
   end
   
-else
-  puts "no block was given (#my_each)"
-end
+  else
+    puts "no block was given (#my_each)"
+  end
 end
